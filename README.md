@@ -1,4 +1,4 @@
-# 🧑‍🤝‍🧑 Social Media platform using php amd mysql
+# 🧑‍🤝‍🧑 Social Media platform using php and mysql
 
 A PHP-MySQL based social networking site built as a database project. Users can register, post content, like posts, send/accept friend requests, and search profiles. This project demonstrates core CRUD functionality and AJAX-driven interactivity in a traditional LAMP stack.
 
